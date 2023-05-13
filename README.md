@@ -3,7 +3,11 @@ This is a simple project that replicates the basic functionality of the iPhone c
 
 ## DEMO
 You can see a live demo of the project here.
-https://github.com/SufiaAshraf/Caculator-using-JavaScript/assets/42400674/1f36f1ec-a11b-47e4-bd04-e7ea694697ea
+
+
+https://github.com/SufiaAshraf/Caculator-using-JavaScript/assets/42400674/6cb132b7-dd99-4137-82a1-4e57e1356b50
+
+
 
 ### Installation
 To install the project on your local machine, you can simply clone the repository:
