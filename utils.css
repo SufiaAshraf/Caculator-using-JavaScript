@@ -1,0 +1,47 @@
+.text-center {
+  text-align: center;
+}
+
+.mx-auto {
+  margin: auto;
+}
+
+.mx-top {
+  margin-top: 100px;
+}
+
+.mx-w {
+  width: 400px;
+}
+
+.mx-h {
+  height: 501px;
+}
+
+.mx-p {
+  padding: 40px;
+}
+
+.mx-border{
+  border: 0px solid black;
+  border-radius: 2px;
+}
+
+.bg-red {
+  background-color: red;
+}
+
+.bg-black {
+  background-color: #1C1C1C;
+}
+.flex {
+  display: flex;
+}
+
+.flex-col {
+  flex-direction: column;
+}
+
+.item-center {
+  align-items: center;
+}
